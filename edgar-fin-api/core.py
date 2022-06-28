@@ -3,6 +3,8 @@ import requests
 
 # Bunch of urls
 
+# https://www.sec.gov/edgar/searchedgar/companysearch.html
+
 BASE_URL = ""
 HEADERS = {""}
 INDEX_URL = ""
